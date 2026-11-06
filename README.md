@@ -24,7 +24,7 @@
 - 🎓 B.S. in Computer Science from **William Paterson University** (Business Minor, Honors College, Cum Laude, Dec 2025)
 - 💼 Currently a **contract Salesforce Engineer**, building an event-driven Apex integration that automates an HR approval process
 - 🤖 I build **RAG systems, tool-using LLM agents, and cloud data pipelines** on Azure OpenAI and GCP
-- 🔬 Research interest: **federated and privacy-preserving learning**, and how evaluation choices (data leakage, speaker overlap) change the results we report
+- 🔬 Research interest: **machine learning, deep learning, neural networks, federated and privacy-preserving learning**, and how evaluation choices (data leakage) change the results we report
 - 📍 Based in New Jersey and open to **AI/ML engineering, data, and cloud roles**
 
 ## 🛠️ Skills & Tools
